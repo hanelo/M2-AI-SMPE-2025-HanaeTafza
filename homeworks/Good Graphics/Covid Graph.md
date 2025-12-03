@@ -1,6 +1,6 @@
 (First COVID graph)
 
-1. Original Image
+
 
 2. Checklist-Based Issues (from the official checklist)
 
@@ -59,7 +59,7 @@ Time axis	Dense tick labels	Reduces readability
 Missing CI	No variability shown	Suggests false precision
 4. Proposed Improved “Hand-Drawn” Design (Text Description)
 
-Imagine a cleaner plot:
+Improvements:
 
 Two separate panels (faceted plot): one for UK, one for Germany → avoids overlap.
 
