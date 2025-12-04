@@ -10,6 +10,7 @@ homeworks/
 ```
 
 📘 Description of Each Folder
+
 🟦 CI computation/
 Contains the notebook and results for computing independent confidence intervals
 on the performance measurements (execution time).
@@ -37,10 +38,8 @@ final report
 This is the main performance evaluation project.
 
 🟪 peer evaluation/
-Contains your computational document for MOOC Module 3 (e.g. weekly CO₂ dataset):
+Contains the computational document for MOOC Module 3 (e.g. weekly CO₂ dataset):
 
 notebook (.ipynb)
 
-exported .pdf
 
-README with the submission link
