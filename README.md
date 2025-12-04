@@ -1,9 +1,14 @@
+## 📁 Repository Structure
+
+```
 homeworks/
 ├── CI computation/          # Confidence interval computation for Quicksort data
 ├── Challenger/              # Challenger O-ring MOOC analysis
 ├── Good Graphics/           # Critique & improved design of figures (using checklist)
 ├── HW2_parallel_quicksort/  # Full Parallel Quicksort experiment, data, analysis & report
 └── peer evaluation/         # CO₂ computational document for MOOC peer evaluation
+```
+
 📘 Description of Each Folder
 🟦 CI computation/
 Contains the notebook and results for computing independent confidence intervals
